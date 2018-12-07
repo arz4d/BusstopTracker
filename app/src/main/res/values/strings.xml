@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusStopDriver</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">arzonefour@gmail.com</string>
+    <string name="test_password">mar6677214</string>
+    <string name="firebase_path">location</string>
+</resources>

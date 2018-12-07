@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225658595239",
+    "firebase_url": "https://busstopdriver.firebaseio.com",
+    "project_id": "busstopdriver",
+    "storage_bucket": "busstopdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225658595239:android:7a5e7dcdbfe1eb8a",
+        "android_client_info": {
+          "package_name": "com.example.anvermam.busstopdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225658595239-bdu0e8ul2o3qr0g2q0qfbfd9q5oelfl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anvermam.busstopdriver",
+            "certificate_hash": "6c571ddfec46f2e07d6962050e75115662205175"
+          }
+        },
+        {
+          "client_id": "225658595239-s6iud1bq553saj28ppeqhiettv1fapfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hH5SyTdohwj5UZYftJWrodz8w0m33ro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225658595239-s6iud1bq553saj28ppeqhiettv1fapfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
